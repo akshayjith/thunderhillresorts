@@ -27,7 +27,7 @@ window.reviewsData = [
     {
         "name": "Yatin",
         "source": "Google",
-        "review": "ASpeechless..This property is straight out of the dream. Location, place, privacy, humble host n caring maid ensures your stay is going to be magical. Stayed here for 5 days n trust me didn't feel like leaving. It's home away from home, was definitely worth a 20 hours drive. Will be back soon fellas ✌️",
+        "review": "Speechless..This property is straight out of the dream. Location, place, privacy, humble host n caring maid ensures your stay is going to be magical. Stayed here for 5 days n trust me didn't feel like leaving. It's home away from home, was definitely worth a 20 hours drive. Will be back soon fellas ✌️",
         "rating": 5
     }
    
