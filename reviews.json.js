@@ -13,9 +13,9 @@ window.reviewsData = [
     },
 
     {
-        "name": "Nikhil Joseph",
-        "source": "Booking.com",
-        "review": "Amazing stay! The private pool was fantastic and the location was peaceful.",
+        "name": "Vaibhav",
+        "source": "Airbnb",
+        "review": "We had a truly wonderful stay at Thunderhill by Casablanca. The property is set in peaceful surroundings and offers a calming, private escape. The place was impeccably clean, highly hygienic, and felt very safe throughout our stay. We especially loved the private pool and the bath tub, which added an extra touch of luxury. A special mention to Geetu, who was incredibly helpful. Our previous hotel experience wasn’t great, and we requested an early check-in. She immediately checked with the caretaker and reviewed other reservations, and to our relief, she allowed us to check in right away—even though our booking officially started the next day. This gesture alone set the tone for a fantastic stay. The caretaker was friendly and welcoming. Despite the language barrier, our interactions were smooth, healthy, and even humorous at times, which made us feel very comfortable.",
         "rating": 5
     },
     {
